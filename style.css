@@ -12,7 +12,7 @@ body {
   color: #050505;
   margin: 128px;
   background-color: white;
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 2px 2px 20px rgb(112, 110, 110), 1px 1px 10px black,
     3px 3px 15px black;
   padding: 55px;
@@ -62,7 +62,7 @@ body {
     rgb(103, 163, 231) 27.26%,
     rgb(97, 95, 96) 96.03%
   );
-  border-radius: 5px;
+  border-radius: 15px;
   display: flex;
   flex-direction: column;
   margin-top: 32px;
@@ -98,14 +98,14 @@ body {
   border: 5px #434852 solid;
 }
 .dark .container {
-  background: #2c313a;
+  background: #1e2125;
   color: #f8f8f2;
 }
 .dark .projetos {
-  background: #434852;
+  background: #5f8ae0;
 }
 .dark .tema button {
-  background: #2c313a;
+  background: #3b3d42;
   border: 1px white solid;
   color: #f8f8f2;
 }
