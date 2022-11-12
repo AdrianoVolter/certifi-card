@@ -55,6 +55,19 @@ body {
   padding: 16px 20px;
   font-weight: 400;
 }
+.tema2 button {
+  
+  color: #292f37;
+  background: #f8f8f2;
+  border-radius: 50px;
+  font-size: 16px;
+  align-self: center;
+  padding: 16px 20px;
+  font-weight: 400;
+  margin: 20px;
+  
+}
+
 
 .projetos {
   background: linear-gradient(
